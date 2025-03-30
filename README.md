@@ -4,7 +4,7 @@
 
 
 <h2><em>Description<br/><br/> Tools to Mask or Change Your IP at Regular Intervals (Even Every Second)</em></h1>
-<p>These tools allow you to mask or rotate your IP address at set intervals (even every second), enhancing anonymity and <br/> bypassing geo-restrictions or blocks<br/>Uses Tor to change your IP at specified intervals.
+<p>These tools allow you to mask or rotate your IP address at set intervals (even every second), enhancing anonymity and bypassing geo-restrictions or blocks<br/>Uses Tor to change your IP at specified intervals.
 
 </p>
 
