@@ -1,6 +1,17 @@
 # Ip-ChAnGeR
 
-# Screenshot
+
+<h2><em>Description<br/><br/> Tools to Mask or Change Your IP at Regular Intervals (Even Every Second)</em></h1>
+<p>These tools allow you to mask or rotate your IP address at set intervals (even every second), enhancing anonymity and <br/> bypassing geo-restrictions or blocks</p>
+
+<ul>
+  <h3><strong>Important Notes</strong></h3>
+  <li>Frequent IP changes may trigger anti-bot systems.</li>
+  <li>Some services may flag this as suspicious activity.</li>
+  <li>Always check terms of service before implementation.</li>
+</ul>
+
+# Screenshot 
 
 
 ![Screenshot_2025-03-30_00_27_43](https://github.com/user-attachments/assets/f6f39274-6f4d-45ca-a950-9eaf9592e484)
