@@ -37,6 +37,11 @@ sudo python ipChange.py
 
 <h4>First, enter how long you want to stay on one server before changing the IP. Then, enter how many times to change the IP. Enter 0 for unlimited changes.</h4>
 
+# Diagram
+
+![diagram-export-24-04-2025-17_56_44](https://github.com/user-attachments/assets/ed0450f9-4779-4120-ab18-db5429b47798)
+
+
 # Screenshot 
 
 
